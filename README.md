@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently loocking for a job.
 - 🌱 I’m currently learning Docker.
-- 📫 How to reach me: Ghazarysnrafayle@gmail.com 
+- 📫 How to reach me: Ghazarysnrafayel@gmail.com
 
 
 # 💻 Tech Stack:
