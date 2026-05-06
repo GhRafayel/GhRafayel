@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently loocking for a job.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently working on a full-stack project using Next.js and Nest.js.
 - 📫 How to reach me: Ghazarysnrafayel@gmail.com
 
 
