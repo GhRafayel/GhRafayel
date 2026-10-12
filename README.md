@@ -98,6 +98,5 @@
 ---
 
 <p align="center">
-  <i>Always learning, always building. Let's create something great together!</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=GhRafayel&color=blueviolet&style=for-the-badge&label=Profile+views" alt="Profile views">
+  <i>Always learning, always building. Let's create something great together!</i>
 </p>
