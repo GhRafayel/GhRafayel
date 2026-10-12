@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rafayel Ghazaryan 👋</h1>
-<h3 align="center">Junior Full-Stack Developer · React · TypeScript · Next.js · NestJS</h3>
+<h3 align="center">Full-Stack Developer · React · TypeScript · Next.js · NestJS</h3>
 
 <p align="center">
   <a href="https://ghrafayel.github.io"><img src="https://img.shields.io/badge/Portfolio-ghrafayel.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -14,7 +14,7 @@
 - 🎓 **Graduate of [42 Vienna](https://www.42vienna.com)** (2024 – 2026): a peer-to-peer, project-based software engineering programme with a strong **C/C++ systems** foundation
 - 🌐 I build **full-stack web apps** with TypeScript, React/Next.js and Node/NestJS
 - 💼 I spent 10 years in retail and sales in Austria, including team-lead and IT/digital-marketing roles, so I bring real-world teamwork and customer focus
-- 🔭 **Open to work:** Junior Frontend / Full-Stack roles in **Vienna** (hybrid, on-site or remote) · available immediately
+- 🔭 **Open to work:** Frontend / Full-Stack roles in **Vienna** (hybrid, on-site or remote) · available immediately
 - 🗣️ Armenian (native) · Russian (C1) · German (B2) · English (B2)
 
 ---
@@ -92,12 +92,12 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhRafayel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GhRafayel&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=GhRafayel&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
 
 <p align="center">
   <i>Always learning, always building. Let's create something great together!</i><br><br>
-  <img src="https://visitcount.itsvg.in/api?id=GhRafayel&icon=0&color=0" alt="Profile visits">
+  <img src="https://komarev.com/ghpvc/?username=GhRafayel&color=blueviolet&style=for-the-badge&label=Profile+views" alt="Profile views">
 </p>
